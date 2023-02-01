@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![](https://vistr.dev/badge?repo=VadzimPapko.vadzimpapko)
+## 𝗦𝘁𝗮𝘁𝘀
+
+![VadzimPapko's github stats](https://github-readme-stats.vercel.app/api?username=vadzimpapko&show_icons=true&theme=dracula)
 <!--
 **VadzimPapko/vadzimpapko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

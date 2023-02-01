@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://vistr.dev/badge?repo=vadzimpapko.vadzimpapko)
+![](https://vistr.dev/badge?repo=VadzimPapko.vadzimpapko)
 <!--
 **VadzimPapko/vadzimpapko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
